@@ -11,5 +11,16 @@
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1"
-  }
+  },
+  "description": "p",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "p"
+  },
+  "keywords": [
+    "p"
+  ],
+  "author": "p",
+  "license": "ISC"
 }
